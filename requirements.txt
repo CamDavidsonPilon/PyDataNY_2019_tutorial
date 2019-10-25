@@ -1,0 +1,11 @@
+#
+# To install these dependencies, use
+#
+#     `pip install -r requirements.txt`
+#
+# on the command line.
+#
+matplotlib
+numpy
+scipy
+autograd
