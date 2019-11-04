@@ -18,4 +18,4 @@ pip install -r requirements.txt
 
 #### Usage
 
-For people attending the tutorial, we will use `tutorial_notebooks/` folder. Complete notebooks (for reference and checking) are in `full_notebooks/`.
+For people attending the tutorial, we will use the `tutorial_notebooks/` folder. Complete notebooks (for reference and checking) are in `full_notebooks/`.
